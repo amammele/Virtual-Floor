@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: 930c9c8220a8a49dc92059a416340b42
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Camera.target
+    100004: Cap_1
+    100006: Cap_2
+    100008: Cube
+    100010: Cube_1
+    100012: Cylin
+    100014: Cylin1
+    100016: Cylinder
+    100018: Extrude_NU
+    100020: HyperNURBS
+    100022: Loft_NURBS
+    100024: Null_
+    100026: Null_Objec
+    100028: Piano
+    100030: Plane
+    100032: Rotazione_
+    100034: Rounding_1
+    100036: Rounding_2
+    100038: //RootNode
+    400000: Camera
+    400002: Camera.target
+    400004: Cap_1
+    400006: Cap_2
+    400008: Cube
+    400010: Cube_1
+    400012: Cylin
+    400014: Cylin1
+    400016: Cylinder
+    400018: Extrude_NU
+    400020: HyperNURBS
+    400022: Loft_NURBS
+    400024: Null_
+    400026: Null_Objec
+    400028: Piano
+    400030: Plane
+    400032: Rotazione_
+    400034: Rounding_1
+    400036: Rounding_2
+    400038: //RootNode
+    2100000: Metal - Chrome
+    2100002: Mat.6
+    2100004: Mat
+    2100006: Mat1
+    2300000: Cap_1
+    2300002: Cap_2
+    2300004: Cube
+    2300006: Cube_1
+    2300008: Cylin
+    2300010: Cylin1
+    2300012: Cylinder
+    2300014: Extrude_NU
+    2300016: HyperNURBS
+    2300018: Loft_NURBS
+    2300020: Null_
+    2300022: Null_Objec
+    2300024: Piano
+    2300026: Plane
+    2300028: Rotazione_
+    2300030: Rounding_1
+    2300032: Rounding_2
+    3300000: Cap_1
+    3300002: Cap_2
+    3300004: Cube
+    3300006: Cube_1
+    3300008: Cylin
+    3300010: Cylin1
+    3300012: Cylinder
+    3300014: Extrude_NU
+    3300016: HyperNURBS
+    3300018: Loft_NURBS
+    3300020: Null_
+    3300022: Null_Objec
+    3300024: Piano
+    3300026: Plane
+    3300028: Rotazione_
+    3300030: Rounding_1
+    3300032: Rounding_2
+    4300000: Plane
+    4300002: Null_
+    4300004: Cube_1
+    4300006: Cube
+    4300008: Null_Objec
+    4300010: Rotazione_
+    4300012: Cylin1
+    4300014: Extrude_NU
+    4300016: Rounding_1
+    4300018: Cap_1
+    4300020: Rounding_2
+    4300022: Cap_2
+    4300024: Cylinder
+    4300026: Cylin
+    4300028: Loft_NURBS
+    4300030: HyperNURBS
+    4300032: Piano
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
